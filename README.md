@@ -42,12 +42,12 @@ $ npm install
 $ npx expo run:android
 ```
 ---
-## 🦸 Autor
+## 👨🏻‍💻 Autor
 
 <a href="https://github.com/pcaldi">
  <img style="border-radius: 50%;" src="https://github.com/pcaldi.png" width="100px;" alt=""/>
  <br />
- <sub><b>Paulo Caldi</b></sub></a> <a href="https://github.com/pcaldi" title="Rocketseat">🚀</a>
+ <sub><b>Paulo Caldi</b></sub></a> <a href="https://github.com/pcaldi" title="emoji">🙋🏻</a>
  <br />
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pcaldi/)](https://www.linkedin.com/in/pcaldi/)
